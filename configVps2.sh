@@ -23,3 +23,5 @@ sudo make install
 echo ------------------------CPUMINER Configurado------------------------------
  
 sudo apt-get install screen -y
+
+echo ------------------------SCREEN instalado------------------------------
