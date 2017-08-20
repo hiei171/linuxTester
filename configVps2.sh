@@ -1,10 +1,14 @@
+cd /
 sudo apt-get upgrade
 sudo apt-get update
 sudo apt-get install
 
 echo --------------------------Atualiizado------------------------------
+sudo apt-get install screen -y
 
-#sudo apt-get install git -y
+echo ------------------------SCREEN instalado------------------------------
+
+sudo apt-get install git -y
 #dependencias
 sudo apt-get install build-essential autotools-dev autoconf libcurl3 libcurl4-gnutls-dev -y
  
@@ -21,7 +25,4 @@ make
 sudo make install
 
 echo ------------------------CPUMINER Configurado------------------------------
- 
-sudo apt-get install screen -y
 
-echo ------------------------SCREEN instalado------------------------------
