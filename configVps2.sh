@@ -8,7 +8,7 @@ sudo apt-get install screen -y
 
 echo ------------------------SCREEN instalado------------------------------
 
-sudo apt-get install git -y
+#sudo apt-get install git -y
 #dependencias
 sudo apt-get install build-essential autotools-dev autoconf libcurl3 libcurl4-gnutls-dev -y
  
